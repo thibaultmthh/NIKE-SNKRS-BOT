@@ -1,0 +1,323 @@
+{
+  'merchProduct': {
+    'id': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+    'snapshotId': 'cd7a9164-1ce2-4791-aeea-a77a6751dfed',
+    'modificationDate': '2020-05-29T14:33:04.097Z',
+    'status': 'ACTIVE',
+    'merchGroup': 'EU',
+    'styleCode': 'SK0109',
+    'colorCode': '911',
+    'styleColor': 'SK0109-911',
+    'pid': '12830020',
+    'catalogId': '82319b00-beb5-3430-ad0d-0a129248523c',
+    'productGroupId': '13042461',
+    'labelName': 'U NK NSW EVRY ESSENTIAL CREW',
+    'brand': 'Nike Sportswear',
+    'channels': ['NikeApp', 'Nike.com', 'Nike Store Experiences'],
+    'consumerChannels': [{
+        'id': '82a74ac1-c527-4470-b7b0-fb5f3ef3c2e2',
+        'resourceType': 'globalization/consumer_channels'
+      },
+      {
+        'id': 'd9a5bc42-4b9c-4976-858a-f159cf99c647',
+        'resourceType': 'globalization/consumer_channels'
+      },
+      {
+        'id': '16134d36-74f2-11ea-bc55-00242ac13000',
+        'resourceType': 'globalization/consumer_channels'
+      }
+    ],
+    'legacyCatalogIds': ['300'],
+    'genders': ['MEN', 'WOMEN'],
+    'sizeConverterId': '3219eca0-988f-3958-8451-907365597e75',
+    'valueAddedServices': [{
+        'id': '3236b68e-b6b8-5f1b-89e4-6f1c90a825a8',
+        'vasType': 'GIFT_MESSAGE'
+      },
+      {
+        'id': 'dd5867d5-0c81-5d74-b645-4bcfa0b54907',
+        'vasType': 'GIFT_WRAP'
+      }
+    ],
+    'sportTags': ['Lifestyle'],
+    'classificationConcepts': [],
+    'taxonomyAttributes': [{
+      'resourceType': 'merch/taxonomy_attributes',
+      'ids': ['fd48acfe-8d69-44ef-994e-d94b47e9b264',
+        '0f64ecc7-d624-4e91-b171-b83a03dd8550',
+        '7baf216c-acc6-4452-9e07-39c2ca77ba32',
+        '5c5e6edb-e59b-48c8-85a4-46a8d2a3c45c',
+        '143d3eff-40cb-46cd-b579-14462aa828a3',
+        '193af413-39b0-4d7e-ae34-558821381d3f',
+        '5ddfb803-2f11-4265-84b2-f7f450f0b697',
+        '05392778-fff6-4fa0-a375-2506d27f009e',
+        '819a4666-e849-48ec-960f-95b1206fc402'
+      ]
+    }],
+    'commerceCountryInclusions': [],
+    'commerceCountryExclusions': ['IE'],
+    'abTestValues': [],
+    'productRollup': {
+      'type': 'Standard',
+      'key': '9jqndL'
+    },
+    'quantityLimit': 10,
+    'styleType': 'INLINE',
+    'productType': 'EQUIPMENT',
+    'mainColor': False,
+    'isImageAvailable': True,
+    'isCopyAvailable': True,
+    'isAttributionApproved': True,
+    'isAppleWatch': False,
+    'exclusiveAccess': False,
+    'commercePublishDate': '2019-12-26T11:05:23.000Z',
+    'commerceStartDate': '2019-05-27T22:00:00.000Z',
+    'commerceEndDate': '2019-08-27T22:00:00.000Z',
+    'resourceType': 'merchProduct',
+    'links': {
+      'self': {
+        'ref': '/merch/products/v2/f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0'
+      }
+    },
+    'isCustomsApproved': False
+  },
+  'merchPrice': {
+    'id': 'da906460-94e5-5d49-92f2-a4d58f5f413e',
+    'snapshotId': 'c5be368d-9668-4a70-84c0-8d79dd1b0a65',
+    'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+    'parentId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+    'parentType': 'merchProduct',
+    'modificationDate': '2019-11-13T11:29:45.374Z',
+    'country': 'FR',
+    'fullPrice': 14,
+    'currentPrice': 14,
+    'currency': 'EUR',
+    'discounted': False,
+    'promoInclusions': [],
+    'promoExclusions': [],
+    'resourceType': 'merchPrice',
+    'links': {
+      'self': {
+        'ref': '/merch/prices/v2/da906460-94e5-5d49-92f2-a4d58f5f413e'
+      }
+    }
+  },
+  'availability': {
+    'id': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+    'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+    'resourceType': 'availableProducts',
+    'links': {
+      'self': {
+        'ref': '/deliver/available_products/v1/f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0'
+      }
+    },
+    'available': False
+  },
+  'productContent': {
+    'globalPid': '12830020',
+    'langLocale': 'fr_FR',
+    'colorDescription': 'Multicolore',
+    'slug': 'chaussettes-mi-mollet-sportswear-everyday-essential-9jqndL',
+    'fullTitle': 'Chaussettes mi-mollet Nike Sportswear Everyday Essential (3 paires)',
+    'title': 'Nike Sportswear Everyday Essential',
+    'subtitle': 'Chaussettes mi-mollet (3 paires)',
+    'descriptionHeading': 'CHAUSSETTES DOUCES MI-MOLLET.',
+    'description': '<div class="pi-tier3"><div class="pi-pdpmainbody"><p><b>CHAUSSETTES DOUCES MI-MOLLET.</b></p><br><p>Les chaussettes Nike Sportswear Everyday Essential sont fabriquées dans un tissu doux et extensible qui épouse les formes de votre pied pour un confort optimal tout au long de la journée.</p><br><p><b>Avantages</b></p><ul><li>Mélange de coton pour une sensation de douceur et de confort.</li><li>Tissu extensible enveloppant le pied pour une tenue qui reste en place.</li></ul><br><p><b>Détails du produit</b></p><ul><li>Composition : 60 % coton / 37 % polyester / 3 % élasthanne</li><li>Lavable en machine</li><li>Importé</li></ul></div></div>',
+    'techSpec': '',
+    'manufacturingCountriesOfOrigin': [],
+    'sizeChart': 'socks-sizing-chart',
+    'colors': [{
+        'type': 'SIMPLE',
+        'name': 'non applicable',
+        'hex': 'FFFFFF'
+      },
+      {
+        'type': 'PRIMARY',
+        'name': 'Multicolore',
+        'hex': 'FFFFFF'
+      }
+    ],
+    'bestFor': [],
+    'athletes': [],
+    'widths': []
+  },
+  'imageUrls': {
+    'productImageUrl': 'https://secure-images.nike.com/is/image/DotCom/SK0109_911'
+  },
+  'productUrls': {
+    'sizeChartUrl': 'https://www.nike.com/FR/fr_FR/sfg/socks-sizing-chart'
+  },
+  'skus': [{
+      'id': 'a5d3be7b-b2a9-5e1c-8853-472b2c2883f7',
+      'snapshotId': 'f896ddc0-bc00-469a-b3c1-e03a83aee94b',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentType': 'merchProduct',
+      'catalogSkuId': '1e67832f-11dd-332b-864f-533218fc664c',
+      'modificationDate': '2020-04-20T02:47:00.200Z',
+      'merchGroup': 'EU',
+      'stockKeepingUnitId': '24298105',
+      'gtin': '00193153923101',
+      'nikeSize': 'S',
+      'sizeConversionId': '87e573ac-7bb6-370d-8076-3c5316f40b98',
+      'countrySpecifications': [{
+        'country': 'FR',
+        'localizedSize': '34-38',
+        'localizedSizePrefix': 'EU',
+        'taxInfo': {
+          'vat': 20.0
+        }
+      }],
+      'resourceType': 'merchSku',
+      'vatCode': '2',
+      'links': {
+        'self': {
+          'ref': '/merch/skus/v2/a5d3be7b-b2a9-5e1c-8853-472b2c2883f7?country=FR?language=fr'
+        }
+      }
+    },
+    {
+      'id': 'c4b82fd5-b1df-5c46-8b2f-7308462aea30',
+      'snapshotId': '5ec00ca8-cf0d-4082-b6b7-611203dbd4a4',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentType': 'merchProduct',
+      'catalogSkuId': '2e4b3b5d-c5ba-3038-b9da-76c3d8c8e1b4',
+      'modificationDate': '2020-04-20T02:47:00.200Z',
+      'merchGroup': 'EU',
+      'stockKeepingUnitId': '24298102',
+      'gtin': '00193153923118',
+      'nikeSize': 'M',
+      'sizeConversionId': 'e1a2d071-a900-3e76-ac02-afe924590422',
+      'countrySpecifications': [{
+        'country': 'FR',
+        'localizedSize': '38-42',
+        'localizedSizePrefix': 'EU',
+        'taxInfo': {
+          'vat': 20.0
+        }
+      }],
+      'resourceType': 'merchSku',
+      'vatCode': '2',
+      'links': {
+        'self': {
+          'ref': '/merch/skus/v2/c4b82fd5-b1df-5c46-8b2f-7308462aea30?country=FR?language=fr'
+        }
+      }
+    },
+    {
+      'id': 'be600500-d540-5143-9ad5-8d572e245bf4',
+      'snapshotId': 'cfa94c43-7091-4c68-8338-ece1a81f88a2',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentType': 'merchProduct',
+      'catalogSkuId': '176a0766-ac22-3700-a82b-7a149b5c0908',
+      'modificationDate': '2020-04-20T02:47:00.200Z',
+      'merchGroup': 'EU',
+      'stockKeepingUnitId': '24298103',
+      'gtin': '00193153923125',
+      'nikeSize': 'L',
+      'sizeConversionId': 'd9e189d3-dd58-3ea7-b37d-b9485f48636d',
+      'countrySpecifications': [{
+        'country': 'FR',
+        'localizedSize': '42-46',
+        'localizedSizePrefix': 'EU',
+        'taxInfo': {
+          'vat': 20.0
+        }
+      }],
+      'resourceType': 'merchSku',
+      'vatCode': '2',
+      'links': {
+        'self': {
+          'ref': '/merch/skus/v2/be600500-d540-5143-9ad5-8d572e245bf4?country=FR?language=fr'
+        }
+      }
+    },
+    {
+      'id': 'ddba645f-cd7d-5704-ba0a-94776d9956fe',
+      'snapshotId': 'a80fa117-ff30-4c57-85a7-239fbc263474',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'parentType': 'merchProduct',
+      'catalogSkuId': '6a8aef69-b924-3931-b273-67612acd2487',
+      'modificationDate': '2020-04-20T02:47:00.200Z',
+      'merchGroup': 'EU',
+      'stockKeepingUnitId': '24298104',
+      'gtin': '00193153923132',
+      'nikeSize': 'XL',
+      'sizeConversionId': 'a4f95f41-6b46-3b4d-b397-9fe7ed108b39',
+      'countrySpecifications': [{
+        'country': 'FR',
+        'localizedSize': '46-50',
+        'localizedSizePrefix': 'EU',
+        'taxInfo': {
+          'vat': 20.0
+        }
+      }],
+      'resourceType': 'merchSku',
+      'vatCode': '2',
+      'links': {
+        'self': {
+          'ref': '/merch/skus/v2/ddba645f-cd7d-5704-ba0a-94776d9956fe?country=FR?language=fr'
+        }
+      }
+    }
+  ],
+  'availableSkus': [{
+      'id': 'a5d3be7b-b2a9-5e1c-8853-472b2c2883f7',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'resourceType': 'availableSkus',
+      'links': {
+        'self': {
+          'ref': '/deliver/available_skus/v1/a5d3be7b-b2a9-5e1c-8853-472b2c2883f7'
+        }
+      },
+      'available': False,
+      'level': 'OOS',
+      'skuId': 'a5d3be7b-b2a9-5e1c-8853-472b2c2883f7'
+    },
+    {
+      'id': 'c4b82fd5-b1df-5c46-8b2f-7308462aea30',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'resourceType': 'availableSkus',
+      'links': {
+        'self': {
+          'ref': '/deliver/available_skus/v1/c4b82fd5-b1df-5c46-8b2f-7308462aea30'
+        }
+      },
+      'available': False,
+      'level': 'OOS',
+      'skuId': 'c4b82fd5-b1df-5c46-8b2f-7308462aea30'
+    },
+    {
+      'id': 'be600500-d540-5143-9ad5-8d572e245bf4',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'resourceType': 'availableSkus',
+      'links': {
+        'self': {
+          'ref': '/deliver/available_skus/v1/be600500-d540-5143-9ad5-8d572e245bf4'
+        }
+      },
+      'available': False,
+      'level': 'OOS',
+      'skuId': 'be600500-d540-5143-9ad5-8d572e245bf4'
+    },
+    {
+      'id': 'ddba645f-cd7d-5704-ba0a-94776d9956fe',
+      'productId': 'f4d0e869-9ccb-5d01-a3cf-e28964e9bcb0',
+      'resourceType': 'availableSkus',
+      'links': {
+        'self': {
+          'ref': '/deliver/available_skus/v1/ddba645f-cd7d-5704-ba0a-94776d9956fe'
+        }
+      },
+      'available': False,
+      'level': 'OOS',
+      'skuId': 'ddba645f-cd7d-5704-ba0a-94776d9956fe'
+    }
+  ],
+  'socialInterest': {
+    'id': '4b7d7d4a-bca0-36b1-8206-7d027cee165f'
+  }
+}

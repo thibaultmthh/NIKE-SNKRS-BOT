@@ -1,0 +1,100 @@
+{
+  "id": "cdb1d0ab-cb75-4bed-b803-539d629397bf",
+  "status": "COMPLETED",
+  "links": {
+    "self": {
+      "ref": "/buy/checkout_previews/v2/jobs/cdb1d0ab-cb75-4bed-b803-539d629397bf"
+    }
+  },
+  "response": {
+    "id": "cdb1d0ab-cb75-4bed-b803-539d629397bf",
+    "country": "FR",
+    "currency": "EUR",
+    "locale": "fr_FR",
+    "shippingGroups": [{
+      "items": [{
+        "id": "19809b01-f7f6-4656-820c-ff707aad5710",
+        "skuId": "706c5c3d-37f8-572c-bc53-222e52a73f76",
+        "quantity": 1,
+        "valueAddedServices": [],
+        "priceInfo": {
+          "price": 90,
+          "discount": 0,
+          "valueAddedServices": 0,
+          "total": 90,
+          "taxTotal": 0,
+          "priceId": "efee0ff8-8a57-5349-a83c-25cc0a11f0d0",
+          "priceSnapshotId": "74e20bf8-edea-4ea6-91e2-81f4f530efe1"
+        },
+        "taxes": [],
+        "promotionDiscounts": [],
+        "estimatedDelivery": "2020-06-30T15:11:40.985Z",
+        "estimatedDeliveryDetails": {
+          "date": "2020-06-30T15:11:40.985Z"
+        }
+      }],
+      "recipient": {
+        "firstName": "Sebastian",
+        "lastName": "Seigfried"
+      },
+      "shippingAddress": {
+        "address1": "Stadelner Hauptstrasse 60",
+        "city": "Fuerth",
+        "postalCode": "90765",
+        "country": "FR"
+      },
+      "shippingMethod": {
+        "id": "GROUND_SERVICE",
+        "cost": 0,
+        "daysToArrive": 23,
+        "estimatedDelivery": "2020-06-30T15:11:40.985Z",
+        "estimatedDeliveryDetails": {
+          "date": "2020-06-30T15:11:40.985Z"
+        }
+      },
+      "shippingCosts": {
+        "priceInfo": {
+          "price": 0,
+          "discount": 0,
+          "total": 0,
+          "taxTotal": 0
+        },
+        "taxes": [],
+        "promotionDiscounts": []
+      },
+      "contactInfo": {
+        "phoneNumber": "17660874072",
+        "email": "bastiOne@gmx.de"
+      }
+    }],
+    "totals": {
+      "shippingTotal": 0,
+      "subtotal": 90,
+      "valueAddedServicesTotal": 0,
+      "taxTotal": 0,
+      "discountTotal": 0,
+      "total": 90,
+      "taxTotalDetails": {
+        "item": 0,
+        "itemType": "NOT_CALCULATED",
+        "shipping": 0,
+        "shippingType": "NOT_CALCULATED"
+      },
+      "shippingTotalDetails": {
+        "price": 0,
+        "discount": 0
+      },
+      "valueAddedServicesTotalDetails": {
+        "price": 0,
+        "discount": 0,
+        "tax": 0,
+        "taxType": "NOT_CALCULATED"
+      }
+    },
+    "priceChecksum": "98d184f342080bb5f7d58eef3310e01a",
+    "email": "bastiOne@gmx.de",
+    "promotionCodes": [],
+    "resourceType": "checkoutPreviewResult"
+  },
+  "resourceType": "job"
+}
