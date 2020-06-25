@@ -55,7 +55,7 @@ async function get_bearer_token(username, password, proxy) {
   });
 
 
-  await page.goto('https://www.nike.com/fr/launch?s=in-stock');
+  await page.goto('https://www.nike.com/fr/launch?s=in-stock', {timeout: 0});
 
 
 
