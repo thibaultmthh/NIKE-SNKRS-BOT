@@ -113,7 +113,7 @@ async function get_bearer_token(username, password, proxy) {
   return bearer_token
 };
 
-
+/*
 var proxy = {
   domain: "lunar.astroproxies.com",
   "port": "7777",
@@ -127,9 +127,8 @@ var proxy = {
 get_bearer_token("bastiOne@gmx.de", "Schuhe123#", proxy).then(bearer_token => {
   console.log(bearer_token)
 })
-
-console.log("cool");
-
+*/
+module.exports.get_bearer_token = get_bearer_token
 
 /* proxys
 lunar.astroproxies.com:7777:customer-astro_4198358-cc-fr-sessid-McGdpr5fHcuN:bdc984c262
